@@ -1,9 +1,10 @@
 {
-  "componentName" : "templateOne",
+  "templateName" : "templateOne",
   "primaryColor": "#333333",
   "secondaryColor": "#ad7913",
   "inviteTitle": "WEDDING INVITATION",            
-  "coupleNames": "Teddy & Olivia",
+  "bride": "Teddy",
+  "groom": "Olivia"
   "couplePhoto": "https://static.wixstatic.com/media/1eda1a_858ae2c1908048b68b322d48e0164241~mv2.jpg/v1/fill/w_301,h_451,q_90/1eda1a_858ae2c1908048b68b322d48e0164241~mv2.jpg",
   "inviteText": "TOGETHER WITH THEIR FAMILIES INVITE YOU TO THEIR WEDDING CELEBRATION",
   "weddingDate": "2024-10-19",
